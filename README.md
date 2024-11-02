@@ -1,0 +1,1 @@
+This document is created to understand and how can I track changes and to get into habit of always creating read me files to ensure sanity while working
